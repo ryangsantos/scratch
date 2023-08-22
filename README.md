@@ -6,3 +6,5 @@
 introdução a lógica de programação com scratch
 ## Autor
 Ryan gomes dos santos
+## Projetos 
+[Boletim](https://scratch.mit.edu/projects/881967590/)
