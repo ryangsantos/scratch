@@ -7,5 +7,5 @@ introdução a lógica de programação com scratch
 ## Autor
 Ryan gomes dos santos
 ## Projetos 
-[Boletim](https://scratch.mit.edu/projects/881967590/)
-[conversão de temperatura](https://scratch.mit.edu/projects/882615973/)
+- [Boletim](https://scratch.mit.edu/projects/881967590/)
+- [conversão de temperatura](https://scratch.mit.edu/projects/882615973/)
