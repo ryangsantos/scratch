@@ -14,3 +14,4 @@ Ryan gomes dos santos
 - [conversao de libra em kg](https://scratch.mit.edu/projects/884620190/)
 - [conversão de milhas em km](https://scratch.mit.edu/projects/884617368/)
 - [lucro](https://scratch.mit.edu/projects/884628386/)
+-[horas tecnicas](https://scratch.mit.edu/projects/885318348/)
