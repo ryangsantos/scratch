@@ -15,3 +15,5 @@ Ryan gomes dos santos
 - [conversão de milhas em km](https://scratch.mit.edu/projects/884617368/)
 - [lucro](https://scratch.mit.edu/projects/884628386/)
 - [horas tecnicas](https://scratch.mit.edu/projects/885318348/)
+- ## A Hora do código
+- ![certificado](https://github.com/ryangsantos/scratch/blob/main/assets/icones/certificado%20online%20ryan.jpg)
