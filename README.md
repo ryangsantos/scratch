@@ -19,6 +19,7 @@ Ryan gomes dos santos
 - [AND](https://scratch.mit.edu/projects/888053886/)
 - [NOT](https://scratch.mit.edu/projects/888075241/)
 - [OR](https://scratch.mit.edu/projects/888069425/)
+- [conversor de metros para pes](https://scratch.mit.edu/projects/888442612/)
   
 - ## A Hora do código
 - ![certificado](https://github.com/ryangsantos/scratch/blob/main/assets/icones/certificado%20online%20ryan.jpg)
