@@ -16,5 +16,9 @@ Ryan gomes dos santos
 - [lucro](https://scratch.mit.edu/projects/884628386/)
 - [horas tecnicas](https://scratch.mit.edu/projects/885318348/)
 - [Posto](https://scratch.mit.edu/projects/887262355/)
+- [AND](https://scratch.mit.edu/projects/888053886/)
+- [NOT](https://scratch.mit.edu/projects/888075241/)
+- [OR](https://scratch.mit.edu/projects/888069425/)
+- 
 - ## A Hora do código
 - ![certificado](https://github.com/ryangsantos/scratch/blob/main/assets/icones/certificado%20online%20ryan.jpg)
